@@ -13,6 +13,10 @@
   }
 }
 
+.colgreen {
+  background-color: rgb(60, 161, 233);
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
